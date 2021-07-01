@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    
+}
+body{
+    background-color: whitesmoke;
+}
+
+.inputstyle{
+    width: 500px;
+    margin: 5px;
+
+}
+
+.inputstyle:hover{
+    background-color: rgb(235, 233, 233);
+  color: black;
+}
+
+.textareaStyle{
+    width: 800px;
+    height: 200px;
+}
+
+.labeltext{
+    margin-top: 20px;
+}
+
+.main{
+    margin-top: 20px;
+    margin-left: 500px;
+}
+
+.secondMain{
+    margin-left: 660px;
+}
+
+
+.thirdMain{
+    margin-left: 380px;
+}
